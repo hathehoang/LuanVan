@@ -1,0 +1,36 @@
+- sa´ng t2 tuâ`n sau: ga?p thâ`y o? I82
+- li?ch ga?p: thu´ 3 ha`ng tuâ`n o? I82
+- di?ch vu? do mi`nh tu? dê` xuâ´t, y´ tuo?ng thâ`y no´i sau.
+- nho´m kho´a truo´c pha´t triê?n rô`i, mi`nh chi? lâ´y la?i yêu câ`u do´ rô`i xây mo´i la?i 
+hê? thô´ng
+- hê? thô´ng ve´ ca`o hô~ tro? hi`nh thu´c qua?ng ca´o, khuyê~n ma~i.
+- Vi´ du?: ca`o(ra tru´ng hoa?c duo?c 1 trong sô´ nhu~ng gia?i thuo?ng gi` do´)
+ (KHa´ch ha`ng tham gia va`o tro` choi may ru?i -> ki´ch thi´ch su? chu´ y´)
+ (=> a´p du?ng duo?c ca´c hi`nh thu´c di ke`m khuyê~n ma~i hay gia?m gia´ va`o dê? ki´ch thi´ch 
+kha´ch ha`ng)
+- Mâ´y tha`ng kho´a truo´c la`m: mô~i cu?a ha`ng co´ mô~i ca´i QR code riêng
+- ma~ QR code se~ la`m ma~ dê? la`m ve´ ca`o.
+- Mô~i cu?a ha`ng se~ co´ 1 web portal(du`ng cho riêng co so? kinh doanh)
+- Nguo`i du`ng thi` du`ng qua(App android)
+- Khi nguo`i du`ng dang ki´ thi` portal se~ pha´t sinh QRcode riêng gu?u cho
+App
+- nhiê?m vu?: cho phe´p webportal ta?o ra ca´c gia?i thuo?ng va` % co ho?i tru´ng gia?i thuo?ng
+- % tru´ng cu?a tu`ng gia?i va` % tru´ng cu?a tu`ng ve´ Nghi~a la`:
+- lu´c que´t(se~ ra xa´c suâ´t ra ve´(% loa?i ve´ tru´ng iphone, tru´ng ba´p...)
+mô~i ve´ se~ co´ % riêng)
+- Bên portal co´ sô´ liê?u thô´ng kê kha´ch ha`ng(dô? tuô?i, gio´i ti´nh, gia?i thuo?ng na`o tru´ng ma` không nhâ?n
+dê? la`m sô´ liê?u cho chiê´n di?ch qua?ng ca´o)
+- Thô´ng kê´ sô´ liê?u kha´ch ha`ng tiê`m nang(que´t nhiê`u, tra? tiê`n nhiê`u)
+- Ti`m hiê?u nghiê?p vu? pha´t sinh % tru´ng trâ?t va` % duo?c ve´
+BÊN CUSTOMER:
+- hô~ tro? cho dung nhâ?p qua Gmail hoa?c facebook de? lâ´y thông tin kha´ch ha`ng
+- mô~i ca´i QR code co´ tho`i ha?n riêng(trong bao nhiêu tho`i gian(co´ thê? set trong khoa?ng tho`i gian nga´n da`i)
+=> ki´ch thi´ch kha´ch ha`ng di ra cu?a ha`ng que´t)
+- thi` bên client se~ hiê?n thi? ca´c thông tin cu?a QRcode
+
+ Ti`m hiê?u thêm vê` bên Machine va` customer co´ thêm nghiê?p vu? va` chu´c nang gi`??? Ha?n dê´n thu´ 3 tuâ`n sau ga?p thâ`y
+- Tho`i ha?n tô´i da 3 tuâ`n dê? hiê?u ro~ nghiê?p vu? va` hê? thô´ng.
+
+
+CÂ`N PHA?I CO´ BA?N NOTE O? MÔ~I LÂ`N HO?P MA?T
+-Gu?u ba´o ca´o ha`ng tuâ`n va`o tô´i thu´ 2.(report ca? nho´m)
