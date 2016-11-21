@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:id="@+id/img_store"
+            android:background="@drawable/ic_menu_gallery"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/info_namestore"
+            android:layout_below="@+id/img_store"
+            android:text="Lotte"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:textSize="24dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/address_namestore"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/info_namestore"
+            android:text="1 Ngo Gia Tu, phuong 9 quan 10"
+            android:textColor="@color/black"
+            android:textSize="24dp"/>
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/address_namestore"
+            android:id="@+id/lv_list_award_store" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lv_list_award_store"
+        android:id="@+id/bt_exit_info_store"
+        android:layout_alignParentRight="true"
+        android:text="Exit"/>
+
+
+
+
+</RelativeLayout>

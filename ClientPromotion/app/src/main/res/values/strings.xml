@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Client Promotion</string>
+
+    <string name="sex_prompt">Gioi Tinh</string>
+    <string-array name="sex_arrays">
+    <item>Nam</item>
+    <item>Nu</item>
+    </string-array>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="reaward">
+        <item>Tat ca</item>
+        <item>Ve trung</item>
+        <item>Ve chua cao</item>
+    </string-array>
+
+</resources>
